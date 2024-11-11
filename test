@@ -1,1 +1,2 @@
 this is pull request testing
+To check this, go to the Security Groups section in the EC2 dashboard and verify that the inbound rules are configured to allow traffic on port 8080.
